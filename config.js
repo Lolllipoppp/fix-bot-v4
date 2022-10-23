@@ -153,11 +153,11 @@ global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://ibb.co/ZX8FJk0' //Main Thumbnail
-global.imagebot = 'https://ibb.co/ZX8FJk0'
-global.giflogo = 'https://ibb.co/ZX8FJk0'
-global.thumbs = ['https://ibb.co/ZX8FJk0']
-global.fla = 'https://ibb.co/ZX8FJk0'
+global.thumb = 'https://i.ibb.co/fFpySPs/flamingtext-27959891600409125.jpg' //Main Thumbnail
+global.imagebot = 'https://i.ibb.co/fFpySPs/flamingtext-27959891600409125.jpg'
+global.giflogo = 'https://i.ibb.co/fFpySPs/flamingtext-27959891600409125.jpg'
+global.thumbs = ['https://i.ibb.co/fFpySPs/flamingtext-27959891600409125.jpg']
+global.fla = 'https://i.ibb.co/fFpySPs/flamingtext-27959891600409125.jpg'
 global.thumbnailUrl = [
 'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg','https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
 'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg','https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
