@@ -17,7 +17,7 @@ let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'Sewa Bot','.sewa', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: "https://Instagram.com/Dmssrdn",
     mediaType: "VIDEO",
-    description: "https://chat.whatsapp.com/GTRZHmbREfhEdVo7kPK8FR", 
+    description: "https://instagram.com/Dmssrdn", 
     title: 'Kenzo-Botz MultiDevice',
     body: wm,
     thumbnail: thumb,
