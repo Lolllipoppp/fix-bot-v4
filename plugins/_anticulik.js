@@ -35,18 +35,16 @@ export async function all(m) {
         ╰═┅═━––––––๑
         
         ⫹⫺ PAYMENT:
-        • Pulsa Telkomsel: [082127487538]
-        • Dana: [082127487538]
-        • Gopay: [082127487538]
-        • Ovo: [082127487538]
-        • Link Aja: [082127487538]
+        • Pulsa Telkomsel: [081214557752]
+        • Dana: [081214557752]
+      
         
         Nomor Owner :
-        wa.me/6282127487538
+        wa.me/6281214557752
         
         ▌│█║▌║▌║║▌║▌║█│▌
         
-        #BY WH MODS DEV
+        #By Adam
         `.trim(), wm, 'Pemilik Bot', '.owner', m)
 await this.reply(nomorown + '@s.whatsapp.net', `Ada Yang Mau Nyulik nih :v \n\ndari: @${m.sender.split("@")[0]} \n\npesan: ${m.text}`, m, { mentions: [m.sender] })
     }
