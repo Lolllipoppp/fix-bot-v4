@@ -59,8 +59,12 @@ global.syt = '-' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
 global.pdana = '081214557752' //dana
+global.povo = '-' //ovo
+global.pgopay = '-' //gopay
+global.plinkaja = '-' //link aja
 global.ppulsa = '081214557752' //telkomsel
 global.ppulsa2 = '083848565087' // kalau ada kartu lain isi aja
+global.psaweria = '-'
 
 
 /*============== NOMOR ==============*/
