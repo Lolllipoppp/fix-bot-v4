@@ -51,7 +51,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 global.sig = 'http://instagram.com/Dmssrdn' // ig
 global.sgh = '-' // github
-global.sgc = '' // group whatsapp
+global.sgc = 'https://chat.whatsapp.com/GTRZHmbREfhEdVo7kPK8FR' // group whatsapp
 global.sdc = '-'//discord
 global.snh = '-' // my youtube channel
 global.sfb = '-' // facebook
@@ -59,18 +59,15 @@ global.syt = '-' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
 global.pdana = '081214557752' //dana
-global.povo = '-' //ovo
-global.pgopay = '-' //gopay
-global.plinkaja = '-' //link aja
 global.ppulsa = '081214557752' //telkomsel
-global.ppulsa2 = '081214557752' // kalau ada kartu lain isi aja
-global.psaweria = '-'
+global.ppulsa2 = '083848565087' // kalau ada kartu lain isi aja
+
 
 /*============== NOMOR ==============*/
-global.nomorbot = '+1 714 930-8862'
+global.nomorbot = '6283848565087'
 global.nomorown = '6281214557752'
-global.namebot = 'KENZO-BOTZ'
-global.nameown = 'ADAM'
+global.namebot = 'Kenzo-Botz'
+global.nameown = 'Adam'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = '-' // nama github lu
@@ -84,7 +81,7 @@ global . lolkey  =  'e54205a4ca2caa368cc067bb'  // PUNYA WAHID 8e66d0934cf741bfd
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281214557752', 'ADAM', true],
+  ['6281214557752', 'Adam', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -137,14 +134,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 KENZO-BOTZ-V4 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘KENZO-BOTZ-V4 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ KENZO-BOTZ-V4 '
+global.wm = '                「 Kenzo-Botz 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Kenzo-Botz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Kenzo-Botz'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By ADAM`
-global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 KENZO-BOTZ-V4 あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Adam`
+global.packname = 'Kenzo-Botz'
+global.author = '                「 Kenzo-Botz 」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -635,8 +632,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'KENZO-BOTZ-V4'
-global.stickauth = `By ©ADAM`
+global.stickpack = 'Kenzo-Botz'
+global.stickauth = `By ©Adam`
 
 global.multiplier = 38 // The higher, The harder levelup
 
