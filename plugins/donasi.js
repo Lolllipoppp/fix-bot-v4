@@ -11,17 +11,14 @@ let str = `${global.wm}
 
 ┌─「 Donasi • Non Pulsa 」
 │ • *Dana:* [${global.pdana}]
-│ • *Gopay:* [${global.pgopay}]
-│ • *Ovo:* [${global.povo}]
-│ • *Link Aja:* [${global.plinkaja}]
 ❏────`
-let wibu = `https://i.ibb.co/P5BBzbf/286637238-392674839545088-948545114162206238-n.jpg` 
+let wibu = `https://i.ibb.co/fFpySPs/flamingtext-27959891600409125.jpg` 
 let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'Sewa Bot','.sewa', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/_ctzhid",
+    mediaUrl: "https://Instagram.com/Dmssrdn",
     mediaType: "VIDEO",
     description: "https://www.instagram.com/p/CevoCg5hG-p/?utm_source=ig_web_copy_link", 
-    title: 'WH-MODS-DEV-V1 MultiDevice',
+    title: 'Kenzo-Botz MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig
