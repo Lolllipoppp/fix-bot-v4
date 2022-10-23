@@ -12,7 +12,7 @@ let str = `${global.wm}
 ┌─「 Donasi • Non Pulsa 」
 │ • *Dana:* [${global.pdana}]
 ❏────`
-let wibu = `https://i.ibb.co/fFpySPs/flamingtext-27959891600409125.jpg` 
+let wibu = `https://i.ibb.co/YjRdHpw/thumbnail.jpg` 
 let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'Sewa Bot','.sewa', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: "https://Instagram.com/Dmssrdn",
