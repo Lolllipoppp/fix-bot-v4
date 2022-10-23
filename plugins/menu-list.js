@@ -663,7 +663,7 @@ const listMessage = {
        //await conn.sendMessage(m.chat, message, m, { mentionedJid: [m.sender] })
 
     //------------------- 2BUTTON VID
-    // conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/XZrK6yQ/transformers.jpg' }, text, footer: 'ᴍᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ', templateButtons: [{ quickReplyButton: { displayText: 'Speedtest⚡', id: `${_p}speedtest` }}, { quickReplyButton: { displayText: 'Owner🎀', id: `${_p}owner` }} ] })
+    // conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/fFpySPs/flamingtext-27959891600409125.jpg' }, text, footer: 'ᴍᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ', templateButtons: [{ quickReplyButton: { displayText: 'Speedtest⚡', id: `${_p}speedtest` }}, { quickReplyButton: { displayText: 'Owner🎀', id: `${_p}owner` }} ] })
 
     // FIX MENU WHATSAPP BASE NEW DAN BAKAL EXPIRED SAAT MARK SUDAH FIX WHATSAPP UPDATE ENTAH VERSI BERAPA
     // MAU YANG NO ENC fix-bot-v4 35K AJA , MINAT PC GW wa.me/6282127487538
