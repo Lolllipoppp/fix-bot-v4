@@ -49,9 +49,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = '-' // ig
+global.sig = 'http://instagram.com/Dmssrdn' // ig
 global.sgh = '-' // github
-global.sgc = '-' // group whatsapp
+global.sgc = '' // group whatsapp
 global.sdc = '-'//discord
 global.snh = '-' // my youtube channel
 global.sfb = '-' // facebook
@@ -153,11 +153,11 @@ global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/XZrK6yQ/transformers.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
-global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumb = 'https://ibb.co/ZX8FJk0' //Main Thumbnail
+global.imagebot = 'https://ibb.co/ZX8FJk0'
+global.giflogo = 'https://ibb.co/ZX8FJk0'
+global.thumbs = ['https://ibb.co/ZX8FJk0']
+global.fla = 'https://ibb.co/ZX8FJk0'
 global.thumbnailUrl = [
 'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg','https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
 'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg','https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
